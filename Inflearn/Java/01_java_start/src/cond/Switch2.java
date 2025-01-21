@@ -9,7 +9,7 @@ public class Switch2 {
             case 1:
                 coupon = 1000;
                 break;
-            //이 떄는 break가 없어서 case 2에도 3000 coupon이 됨
+            //이 때는 break가 없어서 case 2에도 3000 coupon이 됨
             case 2:
             case 3:
                 coupon = 3000;
