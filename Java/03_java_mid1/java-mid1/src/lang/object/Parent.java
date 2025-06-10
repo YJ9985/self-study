@@ -7,4 +7,3 @@ public class Parent {
         System.out.println("Parent.parentMethod");
     }
 }
-```
