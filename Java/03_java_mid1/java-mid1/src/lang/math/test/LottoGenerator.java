@@ -22,7 +22,7 @@ public class LottoGenerator {
     }
 
     private boolean isUnique(int number) {
-        for (int i = 0; i < lottoNumbers.length; i++) {
+        for (int i = 0; i < count; i++) {
             if (lottoNumbers[i] == number) {
                 return false;
             }
